@@ -13,7 +13,7 @@
 ### Interests
 - Cybersecurity
 - Data Science
-- Software Development
+- Fullstack Development
 
 ### Let's Connect!
 Feel free to reach out for collaborations or just to connect! 😄
