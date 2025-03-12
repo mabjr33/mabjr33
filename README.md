@@ -11,8 +11,9 @@
 📱 Skilled in **social media management**
 
 ### Interests
-- Cybersecurity
+- Data Analytics
 - Data Science
+- Cybersecurity
 - Fullstack Development
 
 ### Let's Connect!
