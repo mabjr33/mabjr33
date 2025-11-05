@@ -3,7 +3,7 @@
 ### About Me
 
 🎓 **Student of Computer Engineering** at the University of Pernambuco (UPE/POLI)  
-💻 Proficient in **Python** and **C**, currently learning **Java**  
+💻 Proficient in **Python**, **C**, and **Java**  
 🔐 Enthusiast and learner in **Cybersecurity**   
 📜 **Content Creator** with a portfolio of over 30 scripts on international economics for the channel Léo Fittipaldi and the company Dolarame  
 ✍️ Practical experience in **research, writing, and communication**, developing engaging and informative content  
