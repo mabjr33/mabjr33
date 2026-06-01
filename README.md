@@ -10,10 +10,14 @@
 
 ### Interests
 🔐 Cybersecurity – Focused on real-world applications of digital protection and cyber defense
+
 🧪 Penetration Testing – Learning to identify and exploit vulnerabilities to strengthen systems
+
 🎯 Ethical Hacking – Applying hacking techniques legally to improve security posture
+
 🌐 Web Application Security – Understanding and mitigating OWASP Top 10 vulnerabilities
-🕵️‍♂️ Threat Intelligence – Researching emerging threats and attack vectors
+
+🕵️‍♂️ Threat Intelligence – Researching emerging threats and attack vector
 
 ### Let's Connect!
 Feel free to reach out for collaborations or just to connect! 😄
